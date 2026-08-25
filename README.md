@@ -30,5 +30,5 @@ The ANSYS results were verified using a MATLAB-based calculation.
 
 ## Author
 Indrajit Das
-M.Tech – Design Engineering
+M.Tech –  Solid Mechanics and Design Engineering
 IIT Kanpur
